@@ -1,0 +1,114 @@
+%T The UNIX Time-Sharing System
+%A Dennis M. Ritchie
+%A Ken Thompson
+%J Symposium on Operating Systems Principles
+%I ACM
+%K sosp
+%D October 1973
+
+%T UNIX in Australia, 1984
+%A J. Lions
+%J EUUG Conference Proceedings
+%C Cambridge, England
+%P 46-57
+%D September 1984
+
+%T oldest Unix machine(s)
+%A Henry Spencer
+%D May 1985
+%J net.unix-wizards
+%K wizards
+%O https://groups.google.com/g/net.unix-wizards/c/4zZR9FyzM8k/m/0Xu77eACHEAJ
+
+%T Unix history at U of T
+%A Henry Spencer
+%D March 1985
+%K ut
+%J ut.general
+%O https://groups.google.com/g/ut.general/c/ghv9JlVm8cc/m/2A60WZJgdd4J
+
+%T A Statistical Examination of The Evolution of the UNIX System
+%A Shamim Sharifuddin Pirzada
+%D September 1988
+%I University of London
+
+%T The History of Computing Science at the University of Alberta
+%A K. Smillie
+%A E. Weiss
+%J IEEE Annals of the History of Computing
+%D 1996
+%V 18
+%N 1
+%P 74-75
+
+%T Twenty Years of Berkeley Unix
+%B Open Sources: Voices from the Open Source Revolution
+%A Marshall Kirk McKusick
+%I O'Reilly
+%O ISBN 1-56592-582-3
+%O https://www.oreilly.com/openbook/opensources/book/kirkmck.html
+%D January 1999
+
+%T Old licenses and prices
+%A Dennis Ritchie
+%K dmr
+%K lic
+%D 2003
+%O https://www.nokia.com/bell-labs/about/dennis-m-ritchie/licenses.html
+
+%T A quarter century of UNIX
+%A Peter H. Salus
+%D 1994
+%I Addison-Wesley
+%O ISBN 0-201-54777-5
+%K qcu
+%P 43
+
+%T The First port of Unix
+%A Juris Reinfelds
+%I University of Wollongong
+
+%T The UNIX Time-Sharing System
+%A Dennis M. Ritchie
+%A Ken Thompson
+%O tuhs/Applications/Dennis_Tapes dmr/paper/p1
+%D November 1973
+%K dmr
+%K tapes
+
+%T The UNIX Time-Sharing System
+%A Dennis M. Ritchie
+%A Ken Thompson
+%I ACM
+%J Communications of the ACM
+%K cacm
+%V 17
+%N 7
+%D July 1974
+%P 365-375
+
+%T The UNIX Time-Sharing System
+%A Dennis M. Ritchie
+%A Ken Thompson
+%B Documents for Use With the UNIX Time-sharing System
+%K v6doc
+%D 1975
+
+%T The UNIX Time-Sharing System
+%A Dennis M. Ritchie
+%A Ken Thompson
+%J Proceedings of the Digital Equipment Computer Users Society
+%K DECUS
+%V 3
+%N 5
+%D August 1977
+%O https://archive.org/details/sim_digital-equipment-computer-users-society-transactions_1977_3_5
+
+%T The UNIX Time-Sharing System
+%A Dennis M. Ritchie
+%A Ken Thompson
+%J The Bell System Technical Journal
+%K bstj
+%V 57
+%N 6
+%D July-August 1978

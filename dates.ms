@@ -65,12 +65,12 @@ qcu
 .]
 .PP
 .TS
-l l.
+l l l.
 November 1971	First Edition
-June 1972	Second Edition
-February 1973	Third Edition
-November 1973	Fourth Edition
-June 1974	Fifth Edition
+June 1972	Second Edition	number of UNIX installations has grown to 10
+February 1973	Third Edition	number of UNIX installations has grown to 16
+November 1973	Fourth Edition	number of UNIX installations is now above 20
+June 1974	Fifth Edition	number of UNIX installations is now above 50
 May 1975	Sixth Edition
 January 1979	Seventh Edition
 .TE

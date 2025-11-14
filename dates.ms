@@ -59,6 +59,24 @@ reinfelds
 .TE
 
 .SH
+Distribution Licenses
+.PP
+.TS
+l l.
+November 1979	Onyx Systems, Cupertino, USA
+.[
+marsh
+.]
+February 1980	Microsoft, Bellevue, USA
+.[
+microsoft 1982
+.]
+.[
+allen
+.]
+.TE
+
+.SH
 Printed Manual Dates
 .[
 qcu

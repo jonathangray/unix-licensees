@@ -16,6 +16,10 @@ October 1973	University of Alberta, Edmonton, Canada
 .[
 weiss
 .]
+October 1973	The University of Wisconsin, Madison, USA
+.[
+wisconsin
+.]
 late 1973	The Johns Hopkins University, Baltimore, USA
 .[
 spencer wizards
@@ -81,6 +85,13 @@ microsoft 1982
 .]
 .[
 allen
+.]
+October 1980	First /usr/group meeting, sliding scale sub-licensing, Palo Alto, USA
+.[
+login 1980
+.]
+.[
+infoworld 1980
 .]
 .TE
 

@@ -13,6 +13,10 @@
 %V 23
 %N 11
 
+%T Minutes of the University of Wisconsin System Board of Regents
+%D May 11 1979
+%O https://search.library.wisc.edu/digital/APAZ7SK5I4TL4U8O/ pages/AEIL6BZLTSEARE8Q?as=text&view=one
+
 %T UNIX in Australia, 1984
 %A J. Lions
 %J EUUG Conference Proceedings
@@ -137,3 +141,20 @@
 %P 153
 %D 2011
 %O ISBN 978-1-59184-382-5
+
+%T New Commercial UNIX Users Group
+%J ;login:
+%V 5
+%N 8
+%D October 1980
+%P 9
+%O https://archive.org/details/login_october-1980/page/9/mode/2up
+
+%A Mokurai Cherlin
+%T UNIX Users Unite
+%J InfoWorld
+%V 2
+%N 22
+%D December 1980
+%P 24-25
+%O https://books.google.com/books?id=mD4EAAAAMBAJ&pg=PT23

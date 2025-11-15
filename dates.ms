@@ -24,6 +24,10 @@ late 1973	The Cooper Union, New York, USA
 .[
 spencer wizards
 .]
+1973	Yale University, New Haven, USA
+.[
+datamation
+.]
 January 1974	University of California, Berkeley, USA
 .[
 mckusick
@@ -59,10 +63,14 @@ reinfelds
 .TE
 
 .SH
-Distribution Licenses
+Commercial Redistribution Licenses
 .PP
 .TS
 l l.
+June 1977	Interactive Systems Corp, Santa Monica, USA
+.[
+datamation
+.]
 November 1979	Onyx Systems, Cupertino, USA
 .[
 marsh

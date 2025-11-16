@@ -87,6 +87,13 @@ March 1978	The University of Melbourne, Melbourne, Australia
 .[
 reinfelds
 .]
+May 1978	Ballistic Research Laboratory (BRL), Aberdeen, USA
+.[
+muuss 1987
+.]
+.[
+muuss history
+.]
 .TE
 
 .SH

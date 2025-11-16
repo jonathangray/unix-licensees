@@ -48,6 +48,10 @@ July 1974	Rand Corporation, Santa Monica, USA
 .[
 pirzada
 .]
+Fall 1974	Naval Postgraduate School, Monterey, USA
+.[
+munix
+.]
 December 1974	University of New South Wales, Sydney, Australia
 .[
 lions

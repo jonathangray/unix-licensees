@@ -60,6 +60,13 @@ late 1974	University of Toronto, Toronto, Canada
 .[
 spencer ut
 .]
+Spring 1975	Princeton University, New Jersey, USA
+.[
+lyon
+.]
+.[
+skudlarek
+.]
 November 1976	The University of Wollongong, Wollongong, Australia
 .[
 reinfelds

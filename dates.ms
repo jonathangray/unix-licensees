@@ -60,6 +60,10 @@ late 1974	University of Toronto, Toronto, Canada
 .[
 spencer ut
 .]
+1974	California Polytechnic State University, San Luis Obispo, USA
+.[
+keller 2002
+.]
 January 1975	International Institute for Applied Systems and Analysis, Laxenburg, Vienna
 .[
 curry

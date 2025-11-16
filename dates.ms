@@ -98,6 +98,10 @@ muuss 1987
 .[
 muuss history
 .]
+November 1978	University of Queensland, Brisbane, Australia
+.[
+prentice
+.]
 .TE
 
 .SH

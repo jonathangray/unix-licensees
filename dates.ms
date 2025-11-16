@@ -108,6 +108,9 @@ login 1980
 .[
 infoworld 1980
 .]
+1981	UniSoft, Berkeley, USA
+1982	Sun Microsystems, Santa Clara, USA
+1983	mt Xinu, Berkeley, USA
 .TE
 
 .SH

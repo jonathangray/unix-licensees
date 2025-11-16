@@ -60,6 +60,10 @@ late 1974	University of Toronto, Toronto, Canada
 .[
 spencer ut
 .]
+January 1975	International Institute for Applied Systems and Analysis, Laxenburg, Vienna
+.[
+curry
+.]
 Spring 1975	Princeton University, New Jersey, USA
 .[
 lyon

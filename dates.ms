@@ -79,6 +79,10 @@ November 1976	The University of Wollongong, Wollongong, Australia
 .[
 reinfelds
 .]
+September 1977	Katholieke Universiteit Leuven, Leuven, Belgium
+.[
+kuleuven
+.]
 March 1978	The University of Melbourne, Melbourne, Australia
 .[
 reinfelds

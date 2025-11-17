@@ -223,3 +223,9 @@
 %T Implementation of An Adaptive Scheduling Algorithm for the MUNIX Operating System
 %D December 1975
 %P 11
+
+%A Karl J. Melendez
+%A Robert T. Johnson
+%T Evaluation of the UNIX Time-Sharing System
+%D April 1977
+%O https://www.osti.gov/servlets/purl/7113946

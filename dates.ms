@@ -79,6 +79,10 @@ lyon
 .[
 skudlarek
 .]
+April 1976	Los Alamos Scientific Laboratory, Los Alamos, USA
+.[
+melendez 1977
+.]
 Spring 1976	Yourdon Inc, New York, USA
 .[
 yourdon

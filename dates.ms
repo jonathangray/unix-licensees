@@ -72,6 +72,10 @@ spencer ut
 .[
 keller 2002
 .]
+1974	University of Illinois, Urbana-Champaign, USA
+.[
+illinois
+.]
 January 1975	International Institute for Applied Systems and Analysis, Laxenburg, Vienna
 .[
 curry

@@ -40,9 +40,13 @@ February 1974	Hebrew University of Jerusalem, Jerusalem, Israel
 .[
 pirzada
 .]
-May 1974	Queen Mary College, London, UK
+May 1974	Queen Mary College (QMC), London, UK
 .[
 pirzada
+.]
+same time as QMC	Stichting Mathematisch Centrum, Amsterdam, The Netherlands
+.[
+hagen
 .]
 July 1974	Rand Corporation, Santa Monica, USA
 .[

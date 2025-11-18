@@ -95,6 +95,10 @@ skudlarek
 .[
 tanenbaum
 .]
+before April 1976	Duke University, Durham, USA
+.[
+truscott
+.]
 April 1976	Los Alamos Scientific Laboratory, Los Alamos, USA
 .[
 melendez 1977

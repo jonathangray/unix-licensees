@@ -20,6 +20,10 @@ October 1973	The University of Wisconsin, Madison, USA
 .[
 wisconsin
 .]
+Fall 1973	Harvard University, Cambridge, USA
+.[
+byer
+.]
 late 1973	The Johns Hopkins University, Baltimore, USA
 .[
 spencer wizards

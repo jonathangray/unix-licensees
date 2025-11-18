@@ -248,3 +248,10 @@
 %P 25-26
 %K illinois
 %O CAC Document No. 177
+
+%A Brent Byer
+%T C Indentation, sloppy (??) Unix code
+%J net.lang.c
+%D May 7, 1985
+%O https://groups.google.com/g/net.lang.c/c/XyTnGlv5leE/m/Jjrxail46fYJ
+%O https://www.tuhs.org/Usenet/comp.lang.c/1985-May/007189.html

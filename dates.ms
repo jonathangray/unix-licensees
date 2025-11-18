@@ -103,6 +103,10 @@ Spring 1976	Yourdon Inc, New York, USA
 .[
 yourdon
 .]
+Summer 1976	University of Delaware, Newark, USA
+.[
+luckenbaugh
+.]
 November 1976	The University of Wollongong, Wollongong, Australia
 .[
 reinfelds

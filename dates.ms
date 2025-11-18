@@ -95,6 +95,10 @@ skudlarek
 .[
 tanenbaum
 .]
+before March 19 1976	New York Institute Of Technology, Old Westbury, USA
+.[
+catmull 1976
+.]
 before April 1976	Duke University, Durham, USA
 .[
 truscott

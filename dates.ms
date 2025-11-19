@@ -1,8 +1,11 @@
 .TS
 l l.
-October 15-17 1973	SOSP presentation, New York, USA
+October 16 1973	SOSP presentation, New York, USA
 .[
 sosp
+.]
+.[
+lions auugn 1984
 .]
 October 1973	Columbia University, New York, USA
 .[
@@ -62,7 +65,7 @@ munix
 .]
 December 1974	University of New South Wales, Sydney, Australia
 .[
-lions
+lions euug 1984
 .]
 December 1974	Katholieke Universiteit, Nijmegen, The Netherlands
 .[

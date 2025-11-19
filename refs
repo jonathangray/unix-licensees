@@ -4,7 +4,7 @@
 %J Symposium on Operating Systems Principles
 %I ACM
 %K sosp
-%D October 1973
+%D October 15-17, 1973
 
 %T Personal Project In The Business World
 %J Datamation
@@ -280,3 +280,11 @@
 %N 4
 %K catmull
 %O https://archive.org/details/unix_news_march-19-1976/page/n11/mode/1up
+
+%A John Lions
+%T The Future of UNIX
+%J AUUGN
+%V 5
+%N 2
+%D March 1984
+%P 16

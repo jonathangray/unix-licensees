@@ -80,6 +80,10 @@ keller 2002
 .[
 illinois
 .]
+1974	University of Texas, Austin, USA
+.[
+wedel
+.]
 January 1975	International Institute for Applied Systems Analysis, Laxenburg, Austria
 .[
 curry

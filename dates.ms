@@ -80,7 +80,7 @@ keller 2002
 .[
 illinois
 .]
-January 1975	International Institute for Applied Systems and Analysis, Laxenburg, Vienna
+January 1975	International Institute for Applied Systems Analysis, Laxenburg, Austria
 .[
 curry
 .]
@@ -95,7 +95,7 @@ skudlarek
 .[
 tanenbaum
 .]
-before March 19 1976	New York Institute Of Technology, Old Westbury, USA
+before March 19 1976	New York Institute of Technology, Old Westbury, USA
 .[
 catmull 1976
 .]

@@ -87,6 +87,13 @@ illinois
 .[
 wedel
 .]
+1974 inst late 1978	University of North Carolina at Chapel Hill, Chapel Hill, USA
+.[
+calingaert Adolescence
+.]
+.[
+calingaert Facilities
+.]
 January 1975	International Institute for Applied Systems Analysis, Laxenburg, Austria
 .[
 curry

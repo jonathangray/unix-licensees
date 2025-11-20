@@ -81,13 +81,19 @@ keller 2002
 .]
 1974	University of Illinois, Urbana-Champaign, USA
 .[
-illinois
+illinois report
+.]
+.[
+artwick flying
+.]
+.[
+artwick display
 .]
 1974	University of Texas, Austin, USA
 .[
 wedel
 .]
-1974 inst late 1978	University of North Carolina at Chapel Hill, Chapel Hill, USA
+1974 installed late 1978	University of North Carolina at Chapel Hill, Chapel Hill, USA
 .[
 calingaert Adolescence
 .]

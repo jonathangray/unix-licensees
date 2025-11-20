@@ -158,6 +158,20 @@
 %D 2011
 %O ISBN 978-1-59184-382-5
 
+%T Mailing List Page 2
+%J Unix News
+%D March 19, 1976
+%N 4
+%K catmull
+%O https://archive.org/details/unix_news_march-19-1976/page/n11/mode/1up
+
+%T Mailing List Page 3
+%J Unix News
+%N 4
+%D March 19, 1976
+%K case
+%O https://archive.org/details/unix_news_march-19-1976/page/n12/mode/1up
+
 %T New Commercial UNIX Users Group
 %J ;login:
 %V 5
@@ -274,12 +288,6 @@
 %V 8
 %N 1
 %D Winter/Spring 1988
-
-%J Unix News
-%D March 19, 1976
-%N 4
-%K catmull
-%O https://archive.org/details/unix_news_march-19-1976/page/n11/mode/1up
 
 %A John Lions
 %T The Future of UNIX

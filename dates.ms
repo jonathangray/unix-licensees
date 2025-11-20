@@ -111,6 +111,10 @@ lyon
 .[
 skudlarek
 .]
+September 1975	St. Olaf College, Northfield, USA
+.[
+olaf
+.]
 1975	Vrije Universiteit Amsterdam, Amsterdam, The Netherlands
 .[
 tanenbaum

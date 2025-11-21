@@ -104,6 +104,10 @@ January 1975	International Institute for Applied Systems Analysis, Laxenburg, Au
 .[
 curry
 .]
+February 1975	University of Manitoba, Winnipeg, Canada
+.[
+fonds manitoba
+.]
 Spring 1975	Princeton University, New Jersey, USA
 .[
 lyon

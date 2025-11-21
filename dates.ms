@@ -39,6 +39,13 @@ spencer wizards
 .[
 datamation
 .]
+1973 (CCNG), 1976 (CSG)	University of Waterloo, Waterloo, Canada
+.[
+howard ccng
+.]
+.[
+waterloo csg
+.]
 January 1974	University of California, Berkeley, USA
 .[
 mckusick

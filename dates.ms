@@ -177,6 +177,10 @@ November 1978	University of Queensland, Brisbane, Australia
 .[
 prentice
 .]
+before May 1979	Tektronix, Beaverton, USA
+.[
+cole tektronix
+.]
 .TE
 
 .SH

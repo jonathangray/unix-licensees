@@ -189,6 +189,33 @@
 %P 9
 %O https://archive.org/details/login_october-1980/page/9/mode/2up
 
+%T What's Happening at Western Electric
+%J ;login:
+%D January 1981
+%V 6
+%N 1
+%P 12
+%K isley
+%O https://archive.org/details/login_january-1981/page/11/mode/1up
+
+%T UNIX News from AT&T
+%J ;login:
+%D January 1982
+%V 7
+%N 1
+%K isley
+%O https://archive.org/details/login_january-1982/page/9/mode/1up
+
+%T News from AT&T
+%J ;login:
+%D September 1982
+%K isley
+%K guffy
+%V 7
+%N 4
+%P 35
+%O https://archive.org/details/login_september-1982/page/35/mode/1up
+
 %T Wally Wedel, Candidate for Secretary
 %J ;login:
 %V 11
@@ -298,6 +325,23 @@
 %N 1
 %D Winter/Spring 1988
 
+%T What's happening at BTL/Western Electric
+%J AUUGN
+%V 3
+%N 2
+%D December 1980 - January 1981
+%P 21
+%K isley
+%O https://archive.org/details/AUUGN_V03_2/page/n22/mode/1up
+
+%T What's new at Western Electric
+%J AUUGN
+%V 3
+%N 4
+%D April 1981 - May 1981
+%K usenix
+%O https://archive.org/details/AUUGN_V03_4/page/n15/mode/1up
+
 %A John Lions
 %T The Future of UNIX
 %J AUUGN
@@ -352,3 +396,9 @@
 %D July 16 1976
 %K csg
 %O University of Waterloo Archives, SCA160 - J. Wesley Graham fonds, GA133, File 1530, https://archives.uwaterloo.ca/j-wesley-graham-fonds
+
+%A Larry K. Isley
+%T Licensing Activity and Pricing
+%J UNICOM Conference Proceedings
+%D January 1983
+%P 49

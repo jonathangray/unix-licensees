@@ -231,30 +231,3 @@ June 1974	Fifth Edition	number of UNIX installations is now above 50
 May 1975	Sixth Edition
 January 1979	Seventh Edition
 .TE
-
-.SH
-Installations mentioned in "The UNIX Time-Sharing System"
-.PP
-.TS
-l l.
-November 1973	about 20
-.[
-dmr tapes
-.]
-July 1974	about 40
-.[
-cacm 1974
-.]
-June 1975	about 100
-.[
-v6doc
-.]
-August 1977	about 250
-.[
-decus
-.]
-July 1978	over 600
-.[
-bstj
-.]
-.TE

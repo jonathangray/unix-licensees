@@ -203,12 +203,23 @@ microsoft 1982
 .[
 allen
 .]
+May 19-22 1980	Juris Reinfelds meets founders of The Wollongong Group, Anaheim, USA
+.[
+juris
+.]
+.[
+afips 1980
+.]
 October 1980	First /usr/group meeting, sliding scale sub-licensing, Palo Alto, USA
 .[
 login 1980
 .]
 .[
 infoworld 1980
+.]
+November 1980	first sale, The Wollongong Group, Palo Alto, USA
+.[
+Gorgen 2001
 .]
 1981	UniSoft, Berkeley, USA
 1982	Sun Microsystems, Santa Clara, USA

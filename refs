@@ -104,6 +104,12 @@
 %A Juris Reinfelds
 %I University of Wollongong
 
+%J Proceedings of the National Computer Conference
+%D May 19-22, 1980
+%K anaheim
+%K afips
+%O https://dl.acm.org/doi/proceedings/10.1145/1500518
+
 %T The UNIX Time-Sharing System
 %A Dennis M. Ritchie
 %A Ken Thompson
@@ -402,3 +408,9 @@
 %J UNICOM Conference Proceedings
 %D January 1983
 %P 49
+
+%A Gary A. Gorgen
+%T Did AT&T offer Unix to Digital Equipment in the 70s?
+%J alt.folklore.computers
+%D Jul 2, 2001
+%O https://groups.google.com/g/alt.folklore.computers/c/vUWM4-3Rpe4/m/LbL4_O03kQAJ

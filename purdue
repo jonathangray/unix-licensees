@@ -1,0 +1,52 @@
+1976 (ECN)- The School of Engineering installs a DEC PDP 11/70, the first
+computer owned by the department.
+https://www.pucc.me/timeline
+
+David C. Anderson letter to Melvin Ferentz. March 26, 1976
+Computer Aided Design & Graphics Laboratory
+School of Mechanical Engineering
+https://archive.org/details/unix_news_april-30-1976/page/n3/mode/1up
+
+"The department acquired its first general purpose computer, a VAX 11/780 in
+1978.  It was the first VAX to be running VAX UNIX outside the developer's sites
+(Berkeley and Bell Labs)."
+John R. Rice, Saul Rosen
+History of the Computer Sciences Department at Purdue University 
+CSD-TR-1003, August 1990
+p 10
+https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1005&context=cstech
+
+George Goble and Mike Marsh - History of Computing at Purdue - The Dual VAX
+Vintage Computer Festival Midwest 2.0
+Purdue University, West Lafayette, Indiana, July 15, 2006.
+https://www.youtube.com/watch?v=_DZ0TJQtnqE
+
+George H. Goble, Michael H. Marsh - A dual processor VAX 11/780
+ACM SIGARCH Computer Architecture News, Volume 10, Issue 3, pp 291-298, 1982
+https://dl.acm.org/doi/10.1145/1067649.801738
+
+George Goble interview
+Unix Review, October 1984, pp 48-58
+https://archive.org/details/Unix_Review_1984_Oct.pdf/page/n49/mode/1up
+
+George Goble interview
+Unix Review, March 1985, pp 42-49
+https://archive.org/details/Unix_Review_1985_Mar.pdf/page/n43/mode/1up
+
+"REVIEW: At Purdue, you started out with PDP-11s, didn't you?
+GOBLE: Right, 11/45s and 11/70s -- then VAXen, dual VAXen and now the Gould."
+
+tuhs/Applications/Spencer_Tapes/purdue.tar.gz
+
+tuhs/Applications/Spencer_Tapes/del.tar.gz
+toronto/purdue/
+sys/syslog has dates from December 1976
+
+bitsavers usenix_80.1
+4/purdue/
+
+bitsavers usenix_84.2
+purdue/
+
+bitsavers usenix_85.1
+purdue/

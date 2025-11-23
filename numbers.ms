@@ -175,3 +175,17 @@ SIII	176	265	4	4	15	15	195	284
 _
 TOTALS	535	934	1122	3111	301	570	1958	4615
 .TE
+.SH
+licenses and installations, May, 1983
+.[
+computerworld crume 1983
+.]
+.PP
+.TS
+c c s c s c s c s
+l l l l l l l l l
+l r r r r r r r r.
+	Commercial	Educational	Government	Total
+	lic	inst	lic	inst	lic	inst	lic	inst
+Totals	600	1000	1200	3600	300	600	2100	5200
+.TE

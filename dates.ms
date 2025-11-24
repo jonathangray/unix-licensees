@@ -122,6 +122,10 @@ lyon
 .[
 skudlarek
 .]
+mid 1975	University of Saskatchewan, Saskatoon, Canada
+.[
+cooke
+.]
 September 1975	St. Olaf College, Northfield, USA
 .[
 olaf

@@ -1,4 +1,12 @@
 .SH
+Notes for a Unix talk, 15 March, 1972
+.QS
+UNIX is running on at least five PDP-11
+.[
+ritchie 1972
+.]
+.QE
+.SH
 Printed Manual number of installations
 .[
 qcu

@@ -181,6 +181,10 @@ November 1978	University of Queensland, Brisbane, Australia
 .[
 prentice
 .]
+1978	CSIRO Division of Computing Research, Canberra, Australia
+.[
+dcr 142
+.]
 before May 1979	Tektronix, Beaverton, USA
 .[
 cole tektronix

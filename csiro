@@ -1,0 +1,44 @@
+Dennis Ritchie - The Evolution of the Unix Time-Sharing System
+Proceedings of a Symposium on Language Design and Programming Methodology
+Conference: September 10 - 11, 1979, Sydney
+https://dl.acm.org/doi/proceedings/10.5555/645679
+https://www.nokia.com/bell-labs/about/dennis-m-ritchie/hist.html
+
+"The next Australian User Group Meeting will be held on Wednesday September
+12th. Unfortunately this is in term time, but it will give those from interstate
+and New Zealand an opportunity to attend, given that the "Symposium on Language
+Design ...." is being held in Sydney that week. Also Dennis Ritchie will attend,
+in fact he will be giving a talk at the meeting on UNIX Version 7."
+AUUGN, Vol 1, No 5, June-July 1979
+https://archive.org/details/AUUGN_V01_5/mode/1up
+
+report on discussions at the conference:
+D. R. Cameron, DCR Canberra
+Language Design and Programming Methodology Symposium
+CSIRO DCR Newsletter number 150, December 1979
+
+"Dr. D. Ritchie, of Bell Laboratories, USA, gave a seminar on
+"UNIX Portability and the C Language" at the Division on 19
+September, 1979. Dr. Ritchie is co-developer of the UNIX
+operating system, and he designed and implemented the C
+language, in which UNIX is written."
+CSIRO Division of Computing Research, Annual Report 1979-80, p 61
+
+"UNIX was implemented in Sydney in March, Melbourne in
+April, and Canberra in July.  The version implemented is a
+much enhanced level 6 that has been developed at the Uni-
+versities of New South Wales and Sydney.  It is referred to as
+Australian UNIX Share Access Method (AUSAM)"
+The UNIX timesharing system in DMS
+CSIRO DMS Newsletter number 70, November 1980
+
+R.I. Baxter
+9 September. UNIX Users Group Conference, Nottingham, UK: `UNIX in CSIRO'.
+9 December. CSIRO National Measurement Laboratory, Lindfield, NSW:`Discussion of UNIX usage'.
+mentioned in:
+CSIRO Division of Mathematics and Statistics, Annual Report 1981
+
+SIROMATH and DMS
+"An agreement to make a version of the Bell Laboratories UNIX System III
+available in Australia had been concluded with the Division of Computing Research."
+CSIRO Division of Mathematics and Statistic, Annual Report 1982

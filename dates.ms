@@ -162,6 +162,10 @@ November 1976	The University of Wollongong, Wollongong, Australia
 .[
 reinfelds
 .]
+May 1977	Australian Atomic Energy Commission, Sydney, Australia
+.[
+aaec pr44-s
+.]
 September 1977	Katholieke Universiteit Leuven, Leuven, Belgium
 .[
 kuleuven

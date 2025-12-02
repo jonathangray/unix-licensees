@@ -62,6 +62,10 @@ same time as QMC	Stichting Mathematisch Centrum, Amsterdam, The Netherlands
 .[
 hagen
 .]
+sent after May 31, 1974	University of Utah, Salt Lake City, USA
+.[
+thompson newell 1974
+.]
 July 1974	Rand Corporation, Santa Monica, USA
 .[
 pirzada

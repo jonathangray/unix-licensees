@@ -119,7 +119,7 @@ February 1975	University of Manitoba, Winnipeg, Canada
 .[
 fonds manitoba
 .]
-Spring 1975	Princeton University, New Jersey, USA
+Spring 1975	Princeton University, Princeton, USA
 .[
 lyon
 .]

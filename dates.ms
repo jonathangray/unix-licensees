@@ -174,6 +174,10 @@ September 1977	Katholieke Universiteit Leuven, Leuven, Belgium
 .[
 kuleuven
 .]
+September 1977	Stevens Institute of Technology, Hoboken, USA
+.[
+neu 1978
+.]
 March 1978	The University of Melbourne, Melbourne, Australia
 .[
 reinfelds

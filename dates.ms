@@ -130,6 +130,10 @@ mid 1975	University of Saskatchewan, Saskatoon, Canada
 .[
 cooke
 .]
+September 1 1975	U.S. Government, Washington, D.C., USA
+.[
+bostic 4.4bsd
+.]
 September 1975	St. Olaf College, Northfield, USA
 .[
 olaf

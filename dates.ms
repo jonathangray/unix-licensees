@@ -115,6 +115,10 @@ January 1975	International Institute for Applied Systems Analysis, Laxenburg, Au
 .[
 curry
 .]
+January 1975	Heriot-Watt University, Edinburgh, UK
+.[
+O'Callaghan 2001
+.]
 February 1975	University of Manitoba, Winnipeg, Canada
 .[
 fonds manitoba

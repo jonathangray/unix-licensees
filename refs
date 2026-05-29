@@ -466,3 +466,10 @@
 %J comp.bugs.4bsd
 %D June 1, 1993
 %O https://groups.google.com/g/comp.bugs.4bsd/c/hZYO7xTDqQ8/m/NE-S-HWH9-wJ
+
+%A Patrick O'Callaghan
+%T Re: Fwd: Re: Microsoft and Xenix.
+%J linux-kernel
+%K lkml
+%D 26 Jun 2001
+%O https://lore.kernel.org/lkml/01062608552900.03916@gnat.dst.usb.ve/

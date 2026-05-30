@@ -209,6 +209,13 @@ before May 1979	Tektronix, Beaverton, USA
 .[
 cole tektronix
 .]
+1979	Lincoln-Sudbury Regional High School, Sudbury, USA
+.[
+harvey freedom
+.]
+.[
+harvey case
+.]
 .TE
 
 .SH

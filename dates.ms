@@ -146,6 +146,10 @@ olaf
 .[
 tanenbaum
 .]
+1975	University of Kent at Canterbury (UKC), Kent, UK
+.[
+eager
+.]
 before March 19 1976	New York Institute of Technology, Old Westbury, USA
 .[
 catmull 1976

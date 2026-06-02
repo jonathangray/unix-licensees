@@ -223,6 +223,10 @@ harvey freedom
 .[
 harvey case
 .]
+1979	University of Arizona, Tucson, USA
+.[
+griswold
+.]
 .TE
 
 .SH

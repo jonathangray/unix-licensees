@@ -173,6 +173,14 @@ Spring 1976	Yourdon Inc, New York, USA
 .[
 yourdon
 .]
+before June 21 1976	University of Sydney, Sydney, Australia
+.[
+lions unix news
+.]
+before June 21 1976	University of Newcastle, Newcastle, Australia
+.[
+lions unix news
+.]
 Summer 1976	University of Delaware, Newark, USA
 .[
 luckenbaugh
